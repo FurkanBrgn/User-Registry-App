@@ -1,3 +1,7 @@
+# User Registry App
+
+User Registry App is a user registered app. It was developed with React. And bootstrap is used in the interface.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
