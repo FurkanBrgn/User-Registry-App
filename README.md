@@ -1,6 +1,6 @@
 # User Registry App
 
-User Registry App is a user registered app. It was developed with React. And bootstrap is used in the interface.
+User Registry App is a user registered app. It was developed with React. And bootstrap is used in the interface. The data is stored using a local json server.
 
 # Getting Started with Create React App
 
